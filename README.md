@@ -1,6 +1,18 @@
-# Python Essentials
+<p align="center">
+  <img src="https://www.python.org/static/community_logos/python-logo-generic.svg" alt="Python" width="280">
+</p>
 
-**A structured collection of practice notebooks to build a strong foundation in core Python programming.**
+<h1 align="center">Python Essentials</h1>
+
+<p align="center">
+  <b>A structured collection of practice notebooks to build a strong foundation in core Python programming</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white" alt="Jupyter">
+  <img src="https://img.shields.io/badge/Level-Beginner-success" alt="Level">
+</p>
 
 ---
 
@@ -43,30 +55,12 @@ By completing this repository, a learner will be able to:
 
 ---
 
-## Repository Structure
-
-```text
-Python-Essential/
-├── 01_Variables and Datatypes.ipynb
-├── 02_Operators.ipynb
-├── 03_Conditional Statements.ipynb
-├── 04_Conditional statements practice.ipynb
-├── 05_FOR LOOP.ipynb
-├── 06_WHILE LOOP.ipynb
-├── 07_BREAK AND CONTINUE.ipynb
-├── 08_Loops.ipynb
-├── 09_NESTED LOOPS.ipynb
-├── 10_LIST Slice and STRING.ipynb
-└── 11_FUNCTIONS.ipynb
-```
-
----
-
 ## How to Use
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/shivamkumar98017/Python-Essential.git
+   cd Python-Essential
    ```
 2. Open the notebooks **sequentially** in Google Colab or Jupyter Notebook.
 3. Execute each cell carefully and experiment with the code.
@@ -84,8 +78,8 @@ Python-Essential/
 
 ## Tech Stack
 
-- Python 3
-- Jupyter Notebook / Google Colab
+- **Python 3**
+- **Jupyter Notebook / Google Colab**
 
 ---
 
@@ -103,11 +97,14 @@ It shows:
 ## Author
 
 **Shivam Kumar**  
-Aspiring AI/ML Engineer & Cybersecurity Enthusiast  
-Motihari, Bihar  
+AI/ML Engineer • Cybersecurity Enthusiast  
+Motihari, Bihar
 
-[GitHub](https://github.com/shivamkumar98017) • [Email](mailto:shivamk34442@gmail.com)
+[GitHub](https://github.com/shivamkumar98017) • [Email](mailto:shivamk34442@gmail.com) • [Instagram](https://www.instagram.com/shivamkumar98017/)
 
 ---
 
-*This repository forms the first stage of a structured learning path: Core Python → Advanced Python → NumPy → Pandas → Machine Learning*
+<p align="center">
+  <sub>Part of a structured learning path:<br>
+  <b>Core Python → Advanced Python → NumPy → Pandas → Machine Learning</b></sub>
+</p>
