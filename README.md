@@ -12,7 +12,24 @@
   <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white" alt="Jupyter">
   <img src="https://img.shields.io/badge/Level-Beginner-success" alt="Level">
+  <img src="https://img.shields.io/badge/Step-01%20of%2005-blueviolet" alt="Step">
 </p>
+
+---
+
+### 📚 Recommended Learning Path
+
+Follow this exact sequence for the best results:
+
+| Step | Repository | Focus |
+|:----:|------------|-------|
+| **01** | **[Python Essentials](https://github.com/shivamkumar98017/Python-Essential)** ← **You are here** | Core Python fundamentals |
+| 02 | [Python for AI/ML Foundations](https://github.com/shivamkumar98017/py-aiml-foundations) | Intermediate + Advanced Python |
+| 03 | [SQL Practice](https://github.com/shivamkumar98017/SQL) | Analytical SQL queries |
+| 04 | [NumPy Playground](https://github.com/shivamkumar98017/numpy-playground) | Numerical computing with NumPy |
+| 05 | [Pandas EDA Practice](https://github.com/shivamkumar98017/Pandas-EDA-Practice) | Data Analysis & Exploratory Data Analysis |
+
+> Complete this repository first, then move to **Python for AI/ML Foundations**.
 
 ---
 
@@ -101,10 +118,3 @@ AI/ML Engineer • Cybersecurity Enthusiast
 Motihari, Bihar
 
 [GitHub](https://github.com/shivamkumar98017) • [Email](mailto:shivamk34442@gmail.com) • [Instagram](https://www.instagram.com/shivamkumar98017/)
-
----
-
-<p align="center">
-  <sub>Part of a structured learning path:<br>
-  <b>Core Python → Advanced Python → NumPy → Pandas → Machine Learning</b></sub>
-</p>
